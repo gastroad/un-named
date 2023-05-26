@@ -1,4 +1,4 @@
-import RecoilRootProvider from "../components/RecoilRootProvider"
+import RecoilRootProvider from "@components/RecoilRootProvider"
 
 export const metadata = {
   title: 'un-named',
